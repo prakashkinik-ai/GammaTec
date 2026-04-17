@@ -1,0 +1,5 @@
+node_modules/
+backend/db/gammatc.sqlite
+frontend/dist/
+.env
+.env.local

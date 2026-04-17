@@ -1,0 +1,3 @@
+node_modules/
+db/gammatc.sqlite
+.env
